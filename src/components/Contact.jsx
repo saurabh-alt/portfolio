@@ -5,7 +5,7 @@ function Contact() {
         <section id="contact" className="section contact">
             <div className="contact-box">
                 <p className="eyebrow">LET'S CONNECT</p>
-                <h2>Looking for a Java Full Stack opportunity?</h2>
+                <h2>Looking for a Java Full Stack opportunity</h2>
                 <p>Feel free to reach out for opportunities, collaborations, or a conversation about software development.</p>
                 <div className="contact-links">
                     <a href="mailto:nsaurabh42050@gmail.com"><Mail /> nsaurabh42050@gmail.com</a>
