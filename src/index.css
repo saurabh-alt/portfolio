@@ -97,7 +97,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   line-height: 1;
 }
 
-.nav-links { display: flex; gap: 28px; font-size: 13px; color: #aab2c7; }
+.nav-links { display: flex; gap: 28px; font-size: 16px; color: #aab2c7; }
 .nav-links a { transition: color .2s ease; }
 .nav-links a:hover { color: #fff; }
 .nav-btn,

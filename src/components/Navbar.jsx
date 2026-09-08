@@ -32,7 +32,8 @@ function Navbar() {
             {/* Hire Me Button */}
             <a
                 className="nav-btn"
-                href="mailto:nsaurabh42050@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=nsaurabh42050@gmail.com"
+                target="_blank"
             >
                 Hire Me
             </a>
