@@ -170,6 +170,7 @@ a {
   padding: 90px 24px;
   position: relative;
   z-index: 1;
+  padding-top: 115px;
 }
 
 .hero {
@@ -178,7 +179,6 @@ a {
   grid-template-columns: 1.12fr .88fr;
   align-items: center;
   gap: 70px;
-  padding-top: 130px;
 }
 
 .eyebrow {
